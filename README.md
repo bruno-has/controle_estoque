@@ -6,10 +6,10 @@ Este repositório contém todos os scripts SQL utilizados no projeto de banco de
 
 ## Arquivos incluidos
 
-1- add_tabelas.sql -> criação do banco de dados e de todas suas tabelas com suas respectivas chaves e restrições
-2- inserts.sql -> comandos insert para inserir os dados
-3- selects.sql -> comandos de consulta
-4- updates_deletes.sql -> comandos de atualizar e excluir dados
+  1- add_tabelas.sql -> criação do banco de dados e de todas suas tabelas com suas respectivas chaves e restrições
+  2- inserts.sql -> comandos insert para inserir os dados
+  3- selects.sql -> comandos de consulta
+  4- updates_deletes.sql -> comandos de atualizar e excluir dados
 
 ---
 
